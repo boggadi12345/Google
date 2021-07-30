@@ -1,0 +1,7 @@
+
+*.dll
+*.cache
+*.props
+
+**/obj/**
+**/bin/**
